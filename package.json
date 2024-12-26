@@ -1,0 +1,13 @@
+{
+  "name": "raffle",
+  "module": "holdercheck.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+ 
+  "dependencies": {
+    "@ankr.com/ankr.js": "^0.5.2",
+    "xlsx": "^0.18.5"
+  }
+}
